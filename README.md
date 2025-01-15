@@ -6,6 +6,7 @@ This project focuses on analyzing Airbnb listings in New York to uncover key ins
 ## Key Features of the Project:
 
 Data Exploration:
+
 Dataset overview and preliminary cleaning to prepare it for analysis.
 Insightful summaries of Airbnb listing attributes.
 
