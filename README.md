@@ -3,9 +3,9 @@
 ## Objective:
 This project focuses on analyzing Airbnb listings in New York to uncover key insights, trends, and patterns. By leveraging Python and its robust data analysis libraries, the project demonstrates how data-driven insights can enhance decision-making in the short-term rental industry.
 
-# Key Features of the Project:
+## Key Features of the Project:
 
-## Data Exploration:
+Data Exploration:
 Dataset overview and preliminary cleaning to prepare it for analysis.
 Insightful summaries of Airbnb listing attributes.
 
