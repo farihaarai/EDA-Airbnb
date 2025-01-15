@@ -1,4 +1,4 @@
-# Exploratory Data Analysis & Visualization of Airbnb Listings in New York
+# Exploratory Data Analysis & Visualization of Airbnb Listings
 
 ## Objective:
 This project focuses on analyzing Airbnb listings in New York to uncover key insights, trends, and patterns. By leveraging Python and its robust data analysis libraries, the project demonstrates how data-driven insights can enhance decision-making in the short-term rental industry.
