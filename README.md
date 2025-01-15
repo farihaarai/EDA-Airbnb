@@ -5,22 +5,22 @@ This project focuses on analyzing Airbnb listings in New York to uncover key ins
 
 ## Key Features of the Project:
 
-Data Exploration:
+### Data Exploration:
 Dataset overview and preliminary cleaning to prepare it for analysis.
 Insightful summaries of Airbnb listing attributes.
 
-EDA Techniques:
+## EDA Techniques:
 Statistical measures to understand pricing, availability, and neighborhood preferences.
 Correlation analysis for relationships between various features.
 
-Data Visualization:
+## Data Visualization:
 Use of Matplotlib and Seaborn for clear and engaging visual representation.
 Interactive visualizations showcasing trends in host performance, room type distribution, and guest demand across neighborhoods.
 
-Insights and Recommendations:
+## Insights and Recommendations:
 Highlights actionable insights for hosts, guests, and policymakers.
 
-Tools Used:
+## Tools Used:
 Python Libraries: NumPy, Pandas, Matplotlib, Seaborn.
 Data preprocessing and handling with Pandas.
 Visualization with Matplotlib and Seaborn.
